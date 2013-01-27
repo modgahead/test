@@ -5,8 +5,6 @@
  * @copyright 2013
  */
 
-echo "Hello, cruel World!";
-
-//This is very usefull comment, guys!
+echo "Hello! I'm #2 file in this repo!";
 
 ?>
