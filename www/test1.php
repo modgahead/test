@@ -2,7 +2,7 @@
 
 /**
  * @author Sergey Isayenko
- * @copyright 2013
+ * @copyright 1984
  */
 
 echo "Hello, cruel World!";

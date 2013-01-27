@@ -1,9 +1,6 @@
 <?php
 
-/**
- * @author Sergey Isayenko
- * @copyright 2013
- */
+//no copyrighting now!
 
 echo "Hello! I'm #2 file in this repo!";
 
