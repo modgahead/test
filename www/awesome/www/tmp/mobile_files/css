@@ -1,0 +1,6 @@
+@font-face {
+  font-family: 'Aguafina Script';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Aguafina Script Regular'), local('AguafinaScript-Regular'), url(http://themes.googleusercontent.com/static/fonts/aguafinascript/v2/65g7cgMtMGnNlNyq_Z6CvDVi_4UGEKHjyEZCTqR5Ysg.woff) format('woff');
+}
