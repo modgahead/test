@@ -5,7 +5,7 @@
  * @copyright 1984
  */
 
-echo "Hello, cruel fucking World!";
+echo "Hello, cruel ModgaheaD!!11!";
 
 //This is very usefull comment, guys!
 
